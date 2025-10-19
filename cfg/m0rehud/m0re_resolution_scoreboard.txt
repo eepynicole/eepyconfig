@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/resolution/scoreboard_4x3.res 
